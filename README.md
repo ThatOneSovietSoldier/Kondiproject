@@ -1,3 +1,3 @@
 # Kondiproject
  Iskolai project munka
- Ide kerül majd a leírás
+ Ide kerül majd a leírás.
